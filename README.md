@@ -4,7 +4,7 @@ If you search the web for articles about low-level concurrency, you're bound to 
 Published between 2007 and 2010 in [*Dr. Dobb's Journal*](https://wikipedia.org/wiki/Dr._Dobb%27s_Journal), these articles focused on building a consistent mental model for reasoning about concurrency.
 
 Now that *Dr. Dobb's Journal* has [been closed](https://news.ycombinator.com/item?id=8758915), those articles have effectively been lost.   
-Even the Internet Archive's Wayback Machine seems to have only archived [the first page of each article](https://web.archive.org/web/20110528165735/http://www.drdobbs.com/go-parallel/article/showArticle.jhtml?articleID=227500074). While they may no longer be fully up to date, I believe they're still valuable.
+Even the Internet Archive's Wayback Machine seems to have only archived [the first page of each article](https://web.archive.org/web/20241015075429/https://www.drdobbs.com/parallel/the-pillars-of-concurrency/200001985). While they may no longer be fully up to date, I believe they're still valuable.
 
 This repo is my attempt to find and archive those articles.
 
