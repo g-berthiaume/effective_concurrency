@@ -1,7 +1,6 @@
 # Herb Sutter's Effective Concurrency Column Archive
 
 If you search the web for articles about low-level concurrency, you're bound to come across references to [Herb Sutter](https://herbsutter.com/)'s *Effective Concurrency* column.
-
 Published between 2007 and 2010 in *Dr. Dobb's Journal*, these articles focused on building a consistent mental model for reasoning about concurrency.
 
 Now that *Dr. Dobb's Journal* has [been closed](https://news.ycombinator.com/item?id=8758915), those articles have effectively been lost.   
